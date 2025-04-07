@@ -1,4 +1,4 @@
-# TDM-PP-Trip-Stats-by-District-SE-and-Transit-Intensity
+# TDM-PP-Trip-Stats-by-SE-and-Transit-Intensity
 
 To help quantify the transportation benefit of more centered development, stats were generated for different grouping of districts and also a html folium map showing transit lines and trips productions/attractions/ODs.
 
